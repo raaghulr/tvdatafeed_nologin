@@ -15,7 +15,7 @@ no need to give login details
 
 
 ```
-from tvfeed import TvDatafeed, Interval
+from tvDatafeed import TvDatafeed, Interval
 
 tv=TvDatafeed()
 
